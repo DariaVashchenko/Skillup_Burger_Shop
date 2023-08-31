@@ -21,7 +21,7 @@ function DropdownMenu() {
           <a className="navbar-brand" href="#">
           
           </a>
-          <div class="btn-group">
+          <div className="btn-group">
             <button
               type="button"
               class="btn btn-primary dropdown-toggle"
